@@ -12,7 +12,7 @@ Usage:
 
 #### Sample Run
 ```
-$ ./finger_enum_user.sh ../users.txt
+$ ./finger_enum_user.sh users.txt
 User : user
 Login: user           			Name: user
 Directory: /home/user               	Shell: /bin/bash
