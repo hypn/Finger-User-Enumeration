@@ -1,2 +1,2 @@
 # Finger-User-Enumeration
-Enumerate users using finger
+Enumerate users using finger service
