@@ -7,7 +7,7 @@ display_usage()
 	echo -e "Usage:\n./finger_enum_user.sh <target> <filename.txt>\n"
 }
 
-if [ $# -le 0 ]
+if [ $# -le 1 ]
 then
 	display_usage
 	exit 1
